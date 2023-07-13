@@ -1,7 +1,5 @@
 #!/usr/bin/env ruby
-# Created By Pirata
-#
-#
+
 
 require 'find'
 require 'etc'
